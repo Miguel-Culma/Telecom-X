@@ -77,3 +77,8 @@ Los datos muestran que tanto el tipo de contrato como los servicios adicionales 
 ---
 
 Este análisis es una base sólida para crear modelos predictivos y aplicar intervenciones preventivas que disminuyan la tasa de pérdida de clientes.
+
+
+📌 **Autor:** *Miguel Angel Culma Villalobos*  
+📅 **Fecha:** 2025  
+💼 **Rol:** Analista Junior de Machine Learning
